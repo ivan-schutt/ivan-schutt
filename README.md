@@ -13,9 +13,9 @@ Soy un apasionado del desarrollo de software enfocado en crear soluciones escala
 
 ### Mi Stack Tecnológico
 
-**Lenguajes:** JavaScript, TypeScript, Java
+**Lenguajes:** TypeScript, Java, JavaScript
 
-**Frontend:** React, Next.js, Tailwind CSS
+**Frontend:** React, Next.js, Tailwind CSS, HTML, CSS
 
 **Backend:** Node.js, Express.js
 

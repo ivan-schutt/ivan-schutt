@@ -1,4 +1,4 @@
-##  Soy Ivan Schutt
+##  Ivan Schutt
 ## Software Engineer | Fullstack Developer
 
 Analista de sistemas y programador con más de ocho años de experiencia en producción musical y postproducción de audio.
